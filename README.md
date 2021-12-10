@@ -1,1 +1,1 @@
-# lab_7_Nouragas_Bell
+This part of the lab is to take the information we were able to aquire in the last lab. Which My partner Jonathan Bell and I found levels and temputure. Then to guide that information into visual studios with a interface that will show the information. 
